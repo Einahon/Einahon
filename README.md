@@ -3,7 +3,7 @@ Hello, World! 👋
 My name is Elie Inahon, a passionate software developer from Cincinnati OH.
 
 # About Me
-- 🌱 I'm currently learning Java language.
+- 🌱 I'm a junior software developer.
 - 🔭 I'm currently working on a USSD Application.
 - 📚 I enjoy exploring new technologies and frameworks.
 
