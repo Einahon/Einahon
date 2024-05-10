@@ -8,11 +8,13 @@ My name is Elie Inahon, a passionate software developer from Cincinnati OH.
 - 📚 I enjoy exploring new technologies and frameworks.
 
   # Skills
-   * Languages: Java, Sring Boot, HTML, CSS
-   * DataBase: MySQL
+   * Languages: Java, HTML/CSS
+   * DataBase: MySQL, PostgreSQL, H2 Databease
+   * Frameworks: Spring boot, Spring Data JPA, REST API Testing, Unit Testing
+   * Git, GitHub
 
   # Connect with Me
-  www.linkedin.com/in/elie-inahon-7b1972246<!---
+  www.linkedin.com/in/elie-inahon
 
   
 Einahon/Einahon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
