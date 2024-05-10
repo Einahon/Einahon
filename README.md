@@ -9,9 +9,9 @@ My name is Elie Inahon, a passionate software developer from Cincinnati OH.
 
   # Skills
    * Languages: Java, HTML/CSS
-   * DataBase: MySQL, PostgreSQL, H2 Databease
+   * DataBase: MySQL, PostgreSQL, H2 Database
    * Frameworks: Spring boot, Spring Data JPA, REST API Testing, Unit Testing
-   * Git, GitHub
+   * Developer Tools: Git, GitHub
 
   # Connect with Me
   www.linkedin.com/in/elie-inahon
