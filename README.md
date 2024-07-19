@@ -3,7 +3,7 @@ Hello, World! 👋
 My name is Elie Inahon, a passionate software developer from Cincinnati OH.
 
 # About Me
-- 🌱 I'm a junior software developer.
+- 🌱 I'm a software developer.
 - I have developed an Employee Management System utilizing Java, Spring Boot and MySQL, facilitating efficient tracking of employee information
 - 📚 I enjoy exploring new technologies and frameworks.
 
