@@ -1,20 +1,25 @@
-Hello, World! 👋
-
-My name is Elie Inahon, a passionate software developer from Cincinnati OH.
+👋 Hi, I'm Elie!
+💻 Java Backend Developer | Spring Boot | SQL | Agile
 
 # About Me
-- 🌱 I'm a software developer.
-- I have developed an Employee Management System utilizing Java, Spring Boot and MySQL, facilitating efficient tracking of employee information
-- 📚 I enjoy exploring new technologies and frameworks.
+ I am a Java Backend Developer passionate about building scalable, efficient, and secure applications. 
+ My expertise includes Java, Spring Boot, SQL, RESTful APIs, and microservices architecture, with a strong focus on writing clean, maintainable, and testable code.
 
-  # Skills
-   * Languages: Java, HTML/CSS
-   * DataBase: MySQL, PostgreSQL, H2 Database
-   * Frameworks: Spring boot, Spring Data JPA, REST API Testing, Unit Testing
-   * Developer Tools: Git, GitHub
 
-  # Connect with Me
+# Skills
+  - Programming Languages & Frameworks: Java, Spring Framework, Spring Boot, Hibernate, JPA
+  - Microservices & API Development: RESTful API design, Microservices Architecture, API Security Best Practices
+  - Database Management: MySQL, SQL, JDBC, Relational Database Design
+  - Version Control & Build Tools: Git, GitHub, Maven, Gradle
+  - Testing & Quality Assurance: JUnit, Mockito, Test-Driven Development (TDD)
+  - Project Management: Agile Development, Scrum Methodology, JIRA
+  - IDE & Server Technologies: IntelliJ IDEA, Eclipse IDE, Apache Tomcat
+
+
+# Connect with Me
   www.linkedin.com/in/elie-inahon
+
+  Feel free to check out my repositories, and let’s collaborate on exciting projects! 🚀
 
   
 Einahon/Einahon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
