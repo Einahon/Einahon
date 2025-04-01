@@ -1,5 +1,5 @@
 👋 Hi, I'm Elie!
-💻 Java Backend Developer | Spring Boot | SQL | Agile
+💻 Java Developer | Spring Boot | SQL | Agile
 
 # About Me
  I am a Java Backend Developer passionate about building scalable, efficient, and secure applications. 
